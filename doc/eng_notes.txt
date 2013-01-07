@@ -1,0 +1,18 @@
+ENGINEERING NOTES  
+Hydrovolts Connect  
+
+
+Craig Miller, MS  
+Spatial Minds, LLC  
+craig.miller@spatialminds.com  
+
+--------------------------------------------------------------------------------
+Server:   50.63.189.65
+Login:    hvconnect
+Password: Mexican23
+ssh in
+
+* Switched to Markdown for engineering notes.  
+  Using multimarkdown to convert from .md to html (doc, pdf, etc)  
+  multimarkdown filename.md > filename.html  
+

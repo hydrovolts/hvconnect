@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (C) 2012, Spatial Minds, LLC -->
+
+<messages>
+  <message id="login.name">Name:</message>
+  <message id="login.password">Password:</message>
+  <message id="login.btn.label">Login</message>
+
+  <message id="main.app.title">Hydrovolts Connect</message>
+
+  <message id="db.name">../db/HydrovoltsConnect.db</message>
+  <message id="db.projects.table.name">Turbine</message>
+</messages>

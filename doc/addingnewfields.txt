@@ -1,0 +1,11 @@
+1.  HydrovoltsConectOpHistory.h:  Add new fields to struct.
+2.  HydrovoltsConnectModel.h:  Update OpHistoryCol enum, increment NUM_COLUMNS
+3.  HydrovoltsConnectModel.cpp:  
+    - Update InitializeGraphModel to include new enum types.  
+    - Update PopulateGraphModel() to init new fields.  
+    - Update CreateOpHistoryModel() to include new fields.
+4.  HydrovoltsConnectTableView.cpp:  Add new fields to table 
+5.  HydrovoltsConnectChartToolbar.h:  Add new field to OpHistoryPickerField enum.
+6.  HydrovoltsConnectChartToolbar.cpp:  Add new fields to selector widgets.
+
+
